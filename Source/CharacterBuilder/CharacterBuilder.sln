@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterBuilder", "CharacterBuilder\CharacterBuilder.csproj", "{E8800002-85D0-4F08-A8BA-B5DC0AB9565D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterBuilder.Models", "CharacterBuilder.Models\CharacterBuilder.Models.csproj", "{609CBB09-B703-4BCD-B65A-C24DE6ECB202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterBuilder.ViewModels", "CharacterBuilder.ViewModels\CharacterBuilder.ViewModels.csproj", "{8ECFC18C-12F3-4BA8-B9F8-7BA8E356E94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterBuilder.Views", "CharacterBuilder.Views\CharacterBuilder.Views.csproj", "{6AE50CCF-E093-4367-BBFB-07510953288C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609CBB09-B703-4BCD-B65A-C24DE6ECB202}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{609CBB09-B703-4BCD-B65A-C24DE6ECB202}.Debug|x86.Build.0 = Debug|Any CPU
+		{609CBB09-B703-4BCD-B65A-C24DE6ECB202}.Release|x86.ActiveCfg = Release|Any CPU
+		{609CBB09-B703-4BCD-B65A-C24DE6ECB202}.Release|x86.Build.0 = Release|Any CPU
+		{6AE50CCF-E093-4367-BBFB-07510953288C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6AE50CCF-E093-4367-BBFB-07510953288C}.Debug|x86.Build.0 = Debug|Any CPU
+		{6AE50CCF-E093-4367-BBFB-07510953288C}.Release|x86.ActiveCfg = Release|Any CPU
+		{6AE50CCF-E093-4367-BBFB-07510953288C}.Release|x86.Build.0 = Release|Any CPU
+		{8ECFC18C-12F3-4BA8-B9F8-7BA8E356E94F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8ECFC18C-12F3-4BA8-B9F8-7BA8E356E94F}.Debug|x86.Build.0 = Debug|Any CPU
+		{8ECFC18C-12F3-4BA8-B9F8-7BA8E356E94F}.Release|x86.ActiveCfg = Release|Any CPU
+		{8ECFC18C-12F3-4BA8-B9F8-7BA8E356E94F}.Release|x86.Build.0 = Release|Any CPU
+		{E8800002-85D0-4F08-A8BA-B5DC0AB9565D}.Debug|x86.ActiveCfg = Debug|x86
+		{E8800002-85D0-4F08-A8BA-B5DC0AB9565D}.Debug|x86.Build.0 = Debug|x86
+		{E8800002-85D0-4F08-A8BA-B5DC0AB9565D}.Release|x86.ActiveCfg = Release|x86
+		{E8800002-85D0-4F08-A8BA-B5DC0AB9565D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
