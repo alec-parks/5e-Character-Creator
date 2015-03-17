@@ -1,8 +1,9 @@
-﻿<Properties StartupItem="CharacterBuilder/CharacterBuilder.csproj">
+﻿<Properties StartupItem="CharacterBuilder\CharacterBuilder.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CharacterBuilder.Models/IDice.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CharacterBuilder\packages.config">
     <Files>
-      <File FileName="CharacterBuilder.Models/IDice.cs" Line="1" Column="1" />
+      <File FileName="..\CharacterBuilder.Models.Tests\packages.config" Line="1" Column="1" />
+      <File FileName="CharacterBuilder\packages.config" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
