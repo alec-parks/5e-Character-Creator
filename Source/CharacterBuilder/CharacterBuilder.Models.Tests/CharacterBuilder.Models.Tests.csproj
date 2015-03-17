@@ -48,7 +48,7 @@
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="..\CharacterBuilder\packages\xunit.core.2.0.0\build\portable-net45+win+wpa81+wp80+monotouch+monoandroid+Xamarin.iOS\xunit.core.props" Condition="Exists('..\CharacterBuilder\packages\xunit.core.2.0.0\build\portable-net45+win+wpa81+wp80+monotouch+monoandroid+Xamarin.iOS\xunit.core.props')" />
   <ItemGroup>
-    <ProjectReference Include="..\CharacterBuilder\CharacterBuilder.Models\CharacterBuilder.Models.csproj">
+    <ProjectReference Include="..\CharacterBuilder.Models\CharacterBuilder.Models.csproj">
       <Project>{609CBB09-B703-4BCD-B65A-C24DE6ECB202}</Project>
       <Name>CharacterBuilder.Models</Name>
     </ProjectReference>

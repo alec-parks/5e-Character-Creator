@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterBuilder.ViewModels
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterBuilder.Views", "CharacterBuilder.Views\CharacterBuilder.Views.csproj", "{6AE50CCF-E093-4367-BBFB-07510953288C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterBuilder.Models.Tests", "..\CharacterBuilder.Models.Tests\CharacterBuilder.Models.Tests.csproj", "{6E216D8B-C3A3-4A5E-9584-DFDE699B84A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterBuilder.Models.Tests", "CharacterBuilder.Models.Tests\CharacterBuilder.Models.Tests.csproj", "{6E216D8B-C3A3-4A5E-9584-DFDE699B84A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
