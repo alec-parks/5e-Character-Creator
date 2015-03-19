@@ -14,7 +14,7 @@ namespace CharacterBuilder.Models.Tests
 		[InlineData(12,1)]
 		public void ShouldComputeModifier(int score, int result)
 		{
-			var sut = new Attribute();
+			var sut = new AttributeScore();
 
 			sut.Score = score;
 

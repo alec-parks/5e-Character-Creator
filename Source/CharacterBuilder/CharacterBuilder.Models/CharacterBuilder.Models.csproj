@@ -40,8 +40,10 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="IDice.cs" />
-    <Compile Include="Attribute.cs" />
     <Compile Include="DiceRoller.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="AttributeScore.cs" />
+    <Compile Include="AttributeScores.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
